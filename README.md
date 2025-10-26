@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvdp&label=Profile views&color=0e75b6&style=flat" alt="dhruvdp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/d_h_r_u_v" target="blank"><img src="https://img.shields.io/twitter/follow/d_h_r_u_v?logo=twitter&style=for-the-badge" alt="d_h_r_u_v" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d_h_r_u_v" target="blank"><img src="https://img.shields.io/twitter/follow/d_h_r_u_v?logo=twitter&style=for-the-badge" alt="d_h_r_u_v" />
+</a> </p>
+
+[![Linkedin: dhruvdp](https://img.shields.io/badge/-dhruvdp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvdp/)](https://www.linkedin.com/in/dhruvdp/)
+[![GitHub Dhruv](https://img.shields.io/github/followers/dhruvdp?label=follow&style=social)](https://github.com/dhruvdp)
 
 - 🔭 I'm currently working on **Improving Customer and Agent Experience at Wayfair**
 
