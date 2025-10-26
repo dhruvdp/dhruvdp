@@ -12,7 +12,7 @@
 
 - 👯 I'm looking to collaborate on **open source personal projects that add value to day to day**
 
-- 🤝 I'm looking for help with **be a 4x engineer**
+- 🤝 I'm looking for help with **becoming a 4x engineer**
 
 - 📫 How to reach me **dpdhruvpatel5@gmail.com**
 
